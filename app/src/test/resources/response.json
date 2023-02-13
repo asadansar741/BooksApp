@@ -1,0 +1,846 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 4679,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "VGY1EAAAQBAJ",
+      "etag": "L2vC6mmaMOM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VGY1EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Hollywood Under Siege",
+        "subtitle": "Martin Scorsese, the Religious Right, and the Culture Wars",
+        "authors": [
+          "Thomas R. Lindlof"
+        ],
+        "publisher": "University Press of Kentucky",
+        "publishedDate": "2008-08-08",
+        "description": "A behind-the-scenes look at the making of The Last Temptation of Christ and the controversy following its release. In 1988, director Martin Scorsese fulfilled his lifelong dream of making a film about Jesus Christ. Rather than celebrating the film as a statement of faith, churches and religious leaders immediately went on the attack, alleging blasphemy. At the height of the controversy, thousands of phone calls a day flooded the Universal switchboard, and before the year was out, more than three million mailings protesting the film fanned out across the country. For the first time in history, a studio took responsibility for protecting theaters and scrambled to recruit a “field crisis team” to guide The Last Temptation of Christ through its contentious American openings. Overseas, the film faced widespread censorship actions, with thirteen countries eventually banning the film. The response in Europe turned violent when opposition groups sacked theaters in France and Greece and caused injuries to dozens of moviegoers. Twenty years later, author Thomas R. Lindlof offers a comprehensive account of how this provocative film came to be made and how Universal Pictures and its parent company MCA became targets of the most intense, unremitting attacks ever mounted against a media company. The film faced early and determined opposition from elements of the religious Right when it was being developed at Paramount during the last year the studio was run by the celebrated troika of Barry Diller, Michael Eisner, and Jeffrey Katzenberg. By the mid-1980s, Scorsese’s film was widely regarded as unmakeable?a political stick of dynamite that no one dared touch. Through the joint efforts of two of the era’s most influential executives, CAA president Michael Ovitz and Universal Pictures chairman Thomas P. Pollock, this improbable project found its way into production. The making of The Last Temptation of Christ caught evangelical Christians at a moment when they were suffering a crisis of confidence in their leadership. The religious right seized on the film as a way to rehabilitate its image and to mobilize ordinary citizens to attack liberalism in art and culture. The ensuing controversy over the film’s alleged blasphemy escalated into a full-scale war fought out very openly in the media. Universal/MCA faced unprecedented calls for boycotts of its business interests, anti-Semitic rhetoric and death threats were directed at MCA chairman Lew Wasserman and other MCA executives, and the industry faced the specter of violence at theaters. Hollywood Under Siege draws upon interviews with many of the key figures?Martin Scorsese, Paul Schrader, Michael Ovitz, Jeffrey Katzenberg, Jack Valenti, Thomas P. Pollock, and Willem Dafoe?to explore the trajectory of the film from its conception to the subsequent epic controversy and beyond. Lindlof offers a fascinating dissection of a critical episode in the embryonic culture wars, illuminating the explosive effects of the clash between the interests of the media industry and the forces of social conservatism. Praise for Hollywood Under Siege “No other book has traced the development of a major motion picture from conception through production to reception with the kind of care and detail that Lindlof does here. Hollywood Under Siege provides valuable insight into the machinery of the film industry, and into the machinations of American culture on a broader front as well.” —Thomas Schatz, author of The Genius of the System: Hollywood Filmmaking in the Studio Era and Executive Director of the University of Texas Film Institute “Riveting and accurate. Even though I thought I knew the events, I found myself captured anew.” —Paul Schrader, screenwriter and director “As a study of a landmark moment in American cinema, Lindlof’s book is both profound and extremely entertaining.” —Los Angeles Times “Lindlof has meticulously researched the history of the film from its initial optioning to its ultimate fate, up to the present time, successfully placing it into cultural context. Although extremely detailed, the book is readable and eminently instructive.” —Library Journal",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780813138626"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0813138620"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 410,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VGY1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VGY1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=VGY1EAAAQBAJ&pg=PT446&dq=harry%3Finauthor%3Dharry&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VGY1EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VGY1EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 503.86,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 251.93,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=VGY1EAAAQBAJ&rdid=book-VGY1EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 503860000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 251930000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VGY1EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eHarry\u003c/b\u003e Ufland file notes, February 1, 2, 1984. (Photocopy in the author&#39;s possession.) 136. ... “Breakdown of Costs” (undated document; photocopy \u003cb\u003ein author&#39;s\u003c/b\u003e possession). 13. Luke Ford, “Producer \u003cb\u003eHarry\u003c/b\u003e J. Ufland” (undated interview),&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hqs4DwAAQBAJ",
+      "etag": "GjJuiSp/Zno",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hqs4DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The One Technique",
+        "subtitle": "Learn how 20% of Mindfulness leads to 80% of success in Life",
+        "authors": [
+          "Harry Alexander"
+        ],
+        "publisher": "Notion Press",
+        "publishedDate": "2017-10-06",
+        "description": "Are you familiar with the Pareto Rule of 80/20? Do you know that by spending as small as 20% of your time being mindful you can be 80% more successful in what you do? The One Technique is written and designed for those who want to overcome resistance within and achieve success without. Here, the author shares with the readers his journey of how being mindful using mediation was the single most powerful tool to turn his life around from the misery of smoking and drunkenness, a near breakup, loss of a job, to a life of peace, abundance and a harmonious relationship by living his true values that bring him joy. 80% of the most successful people interviewed by Tim Ferris for the book Tools of Titans meditate in some form or the other. If you want to get on a ride that can change your life and be the Titan that you are meant to me, it is vital that you begin your journey, and Now!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781947988163"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1947988166"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hqs4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hqs4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=hqs4DwAAQBAJ&pg=PP1&dq=harry%3Finauthor%3Dharry&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hqs4DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hqs4DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 212.4,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 148.68,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hqs4DwAAQBAJ&rdid=book-hqs4DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 212400000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 148680000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hqs4DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Here, the author shares with the readers his journey of how being mindful using mediation was the single most powerful tool to turn his life around from the misery of smoking and drunkenness, a near breakup, loss of a job, to a life of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FS4hAQAAIAAJ",
+      "etag": "rgL3o0hEhvs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FS4hAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Catalog of Copyright Entries",
+        "subtitle": "Third series",
+        "authors": [
+          "Library of Congress. Copyright Office"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105006281294"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 862,
+        "printType": "BOOK",
+        "categories": [
+          "Copyright"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FS4hAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FS4hAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=FS4hAQAAIAAJ&pg=PA82&dq=harry%3Finauthor%3Dharry&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FS4hAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FS4hAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=FS4hAQAAIAAJ&rdid=book-FS4hAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.in/books/download/Catalog_of_Copyright_Entries.epub?id=FS4hAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FS4hAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "10 x 7 \u003cb\u003ein . Author\u003c/b\u003e of reproduction : \u003cb\u003eHarry\u003c/b\u003e G. John , jr . \u003cb\u003eHarry\u003c/b\u003e G. John , jr . , Milwaukee ; 22 Feb52 ; H2388 . MOTHER of Mercy . K30887 . Beuroner Kunstschule . SEE ALSO LE MOULIN de La Galette . H2542 . Utrillo , Maurice ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HEtK6i_x75MC",
+      "etag": "Ja4lSBySTOg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HEtK6i_x75MC",
+      "volumeInfo": {
+        "title": "Snape and the Question of Good and Evil in Rowlings Harry Potter Series",
+        "authors": [
+          "Sonja Wendel"
+        ],
+        "publisher": "GRIN Verlag",
+        "publishedDate": "2012-10-24",
+        "description": "Bachelor Thesis from the year 2010 in the subject English - Pedagogy, Didactics, Literature Studies, grade: 2,7, University of Bremen, course: The British novel from the 18th to the 20th century, language: English, abstract: 1. Introduction: Contemporary Research and Thesis Statement In most literature discussing fantasy for children and adults, we are informed about the central position of the fight of good and evil, which is the case within the Harry Potter series of author J.K. Rowling as well. It has been argued by academics that good and evil can be separated from each other because of a strong polarity (cf. Cohen 352) and that the description of scenery, architecture and presented figures are also included to represent the fight between both sides. Imagery that is described in relation to the evil side is always assigned to concepts from similar semantic fields, such as for example \"chillness\" and \"blankness\". Dark colours serve for the creation of evil figures by which these can be accurately distinguished from figures of the good side (cf. Meißner, \"Phantastik der Gegenwart\" 127-133; \"Phantasie der Kinder\" 34).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783656295686"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3656295689"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HEtK6i_x75MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HEtK6i_x75MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=HEtK6i_x75MC&pg=PA2&dq=harry%3Finauthor%3Dharry&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HEtK6i_x75MC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HEtK6i_x75MC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1531.58,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 1531.58,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HEtK6i_x75MC&rdid=book-HEtK6i_x75MC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1531580000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1531580000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Snape_and_the_Question_of_Good_and_Evil-sample-pdf.acsm?id=HEtK6i_x75MC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HEtK6i_x75MC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The characteristics of good opposing those of evil so that good and evil are highly sorted, abstract semantic areas and a &quot;black-white-painting&quot; within these texts exists. However, this is not the case \u003cb\u003ein author\u003c/b\u003e J.K. Rowling&#39;s \u003cb\u003eHarry\u003c/b\u003e&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QgIDAAAAYAAJ",
+      "etag": "6K7YvZy02po",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QgIDAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Classified Catalogue of the Public Library, of Fitchburg Mass",
+        "subtitle": "Comprising Author and Title Catalogue, Subject Catalogue, and Subject Index",
+        "authors": [
+          "Fitchburg (Mass.). Public Library"
+        ],
+        "publishedDate": "1886",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044080250129"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 788,
+        "printType": "BOOK",
+        "categories": [
+          "Library catalogs"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QgIDAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QgIDAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=QgIDAAAAYAAJ&pg=PA376&dq=harry%3Finauthor%3Dharry&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QgIDAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QgIDAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=QgIDAAAAYAAJ&rdid=book-QgIDAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.in/books/download/Classified_Catalogue_of_the_Public_Libra.epub?id=QgIDAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.in/books/download/Classified_Catalogue_of_the_Public_Libra.pdf?id=QgIDAAAAYAAJ&hl=&output=pdf&sig=ACfU3U2oQy7JIO12ldcQBt1CKuAMmzEXLQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QgIDAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "( \u003cb\u003eIn author&#39;s Harry\u003c/b\u003e Dangerfield . S. 1862. ) 2 JT13 - Black cliff , and other stories on the parables . S. N.Y. 1862 . 244 T5 - Chief&#39;s daughter ; or , Daybreak in Britain . S. N.Y. 1862 . 2 JT6 Christian&#39;s mirror ; or , Words in season&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wRSBnPVhR0sC",
+      "etag": "g9g7eyyQAPg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wRSBnPVhR0sC",
+      "volumeInfo": {
+        "title": "Harry's Farewell",
+        "subtitle": "Interpreting and Teaching the Truman Presidency",
+        "authors": [
+          "Richard Stewart Kirkendall"
+        ],
+        "publisher": "University of Missouri Press",
+        "publishedDate": "2004",
+        "description": "\"Harry's Farewell confronts the biggest issue of Truman historiography: the historical significance of Harry S. Truman's presidency. Exploring the subject from the point of view of Truman's Farewell Address of January 15, 1953, the book begins by describing the preparation of the address itself by the president and his closest advisers. In it, they challenged the negative view of his presidency that prevailed as he prepared to leave the White House. The book goes on to appraise the presidency in terms of the topics included in the address: the president and the people, the economy, civil rights, the bomb, Containment, Korea, and the end of the Cold War. Four essays follow that cover key topics that Truman did not mention in his speech: the Red Scare, women's rights, ethnicity, and the environment. The book ends with essays by two major Truman biographers who present their own interpretations of his historical significance.\" --Book Jacket.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780826264220"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0826264220"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 381,
+        "printType": "BOOK",
+        "categories": [
+          "Electronic book"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wRSBnPVhR0sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wRSBnPVhR0sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=wRSBnPVhR0sC&pg=PA175&dq=harry%3Finauthor%3Dharry&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=wRSBnPVhR0sC&dq=harry%3Finauthor%3Dharry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_s_Farewell.html?hl=&id=wRSBnPVhR0sC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Harry_s_Farewell-sample-epub.acsm?id=wRSBnPVhR0sC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Harry_s_Farewell-sample-pdf.acsm?id=wRSBnPVhR0sC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wRSBnPVhR0sC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... this is an English translation of an unpublished manuscript by two Russian scholars with access to the Presidential Archives in Moscow (copy \u003cb\u003ein author&#39;s\u003c/b\u003e possession). 4. Marshall Shulman, Stalin&#39;s Foreign Policy Reappraised&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qBxhhMkSLRMC",
+      "etag": "VrapYGQLH+U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qBxhhMkSLRMC",
+      "volumeInfo": {
+        "title": "Trippings in Author-land",
+        "authors": [
+          "Emily Chubbuck Judson"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044019377837"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 298,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qBxhhMkSLRMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qBxhhMkSLRMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=qBxhhMkSLRMC&pg=PA225&dq=harry%3Finauthor%3Dharry&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qBxhhMkSLRMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qBxhhMkSLRMC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=qBxhhMkSLRMC&rdid=book-qBxhhMkSLRMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.in/books/download/Trippings_in_Author_land.epub?id=qBxhhMkSLRMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.in/books/download/Trippings_in_Author_land.pdf?id=qBxhhMkSLRMC&hl=&output=pdf&sig=ACfU3U2ecOY2qN_n_Yb4XgK-xWCBidj18g&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qBxhhMkSLRMC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Kitty felt the awkwardness of her position too much to speak , and of course \u003cb\u003eHarry\u003c/b\u003e could not release her until he knew ... It was certain she was not faint , for the crimson blood dyed even the tips of her fingers , and \u003cb\u003eHarry&#39;s\u003c/b\u003e face&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lOdeBwAAQBAJ",
+      "etag": "tIrtJ6PFMow",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lOdeBwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Crossing",
+        "authors": [
+          "Michael Connelly"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2015-10-22",
+        "description": "Six months ago, Harry Bosch left the LAPD before they could fire him, and then hired maverick Defense Attorney Mickey Haller to sue the department for forcing him out. Although it wasn't the way he wanted to go, Harry has to admit that being out of the game has its benefits. Until Mickey asks him to help on one of his cases, and suddenly Harry is back where he belongs, right in the centre of a particularly puzzling murder mystery. The difference is, this time Harry is working for the defense, aiming to prevent the accused, Da'Quan Foster, from being convicted. And not only does the prosecution seem to have a cast-iron case, but having crossed over to 'the dark side' as his former colleagues would put it, Harry is in danger of betraying the very principles he's lived by his whole career.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781409145899"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1409145891"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 47,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.12.14.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lOdeBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lOdeBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=lOdeBwAAQBAJ&printsec=frontcover&dq=harry%3Finauthor%3Dharry&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lOdeBwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lOdeBwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 400.02,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 216.01,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=lOdeBwAAQBAJ&rdid=book-lOdeBwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 400020000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 216010000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/The_Crossing-sample-epub.acsm?id=lOdeBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lOdeBwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Six months ago, Harry Bosch left the LAPD before they could fire him, and then hired maverick Defense Attorney Mickey Haller to sue the department for forcing him out."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hsTCDwAAQBAJ",
+      "etag": "VnMWKehYdQE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hsTCDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Tramping on Life",
+        "subtitle": "An Autobiographical Narrative",
+        "authors": [
+          "Harry Kemp"
+        ],
+        "publisher": "Good Press",
+        "publishedDate": "2019-12-04",
+        "description": "\"Tramping on Life\" by Harry Kemp. Published by Good Press. Good Press publishes a wide range of titles that encompasses every genre. From well-known classics & literary fiction and non-fiction to forgotten−or yet undiscovered gems−of world literature, we issue the books that need to be read. Each Good Press edition has been meticulously edited and formatted to boost readability for all e-readers and devices. Our goal is to produce eBooks that are user-friendly and accessible to everyone in a high-quality digital format.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:4057664585851"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 474,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hsTCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hsTCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=hsTCDwAAQBAJ&pg=PP1&dq=harry%3Finauthor%3Dharry&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=hsTCDwAAQBAJ&dq=harry%3Finauthor%3Dharry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tramping_on_Life.html?hl=&id=hsTCDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hsTCDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aFbBkOBenbIC",
+      "etag": "WxmH8Sgvj/Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aFbBkOBenbIC",
+      "volumeInfo": {
+        "title": "Jaws of Darkness",
+        "subtitle": "Book Five of The Darkness Series",
+        "authors": [
+          "Harry Turtledove"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2012-05-31",
+        "description": "The grand conflict for control of the continent of Derlavai rages on, in a battle with all the drama and terror of the Second World War-only the bullets are beams of magical fire, the tanks and submarines are great lumbering beasts, and the fighters and bombers are dragons raining fire upon their targets. Yet hope may be dawning at last. The terrible onslaught of the conquering forces of Algarve-who power their battle magics with the life energy of their murdered victims-begins to founder as it runs into Habbakuk: a sorcerous ship of ice used by embattled nations of Lagoas and Kuusamo to ferry their deadly dragons across the seas to strike at the very heart of Algarvian power. But though the tide has begun to turn, the conflict is far from over. The widely disdained Kaunians still struggle desperately to escape as the Algarvians kill them by the thousands-for life energy, but also simply for the crime of being Kaunian. And as the deaths of innocent civilians on both sides continue to feed the flames of war, those who have struggled to survive and preserve their freedom have only their passions to see them through. . . .",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780575121188"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0575121181"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.3.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aFbBkOBenbIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aFbBkOBenbIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=aFbBkOBenbIC&printsec=frontcover&dq=harry%3Finauthor%3Dharry&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aFbBkOBenbIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aFbBkOBenbIC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 250.16,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 175.11,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=aFbBkOBenbIC&rdid=book-aFbBkOBenbIC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 250160000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 175110000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Jaws_of_Darkness-sample-epub.acsm?id=aFbBkOBenbIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aFbBkOBenbIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The grand conflict for control of the continent of Derlavai rages on, in a battle with all the drama and terror of the Second World War-only the bullets are beams of magical fire, the tanks and submarines are great lumbering beasts, and the ..."
+      }
+    }
+  ]
+}
